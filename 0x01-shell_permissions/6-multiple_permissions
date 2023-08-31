@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-chmod+114 hello
-=======
-chmod + 114 hello
->>>>>>> 0e25ca9e3d6bb9911a8d5da805da6195857bccb3
+chmod +114 hello
