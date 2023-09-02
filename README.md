@@ -1,2 +1,1 @@
-Shell Basics
-update
+shell basics
